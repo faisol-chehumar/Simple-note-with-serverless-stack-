@@ -1,6 +1,11 @@
 # This project reference from [Serverless stack](https://serverless-stack.com/)
 
-It is a single page application powered by a serverless API written completely in JavaScript. Here is the complete source for the backend and the frontend. It is a relatively simple application but we are going to address the following requirements.
+
+It is a single page application powered by a serverless API written completely in JavaScript. Here is the complete source for the backend and the frontend.
+
+![A simple note build with serverless stack](https://d33wubrfki0l68.cloudfront.net/eca32e964868dbb2222cae5523fe548eccb91168/c4838/assets/completed-app-desktop.png)
+
+It is a relatively simple application but we are going to address the following requirements.
 
 - Should allow users to signup and login to their accounts
 - Users should be able to create notes with some content
